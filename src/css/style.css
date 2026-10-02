@@ -30,7 +30,7 @@ main {
 
 .form {
     text-align: center;
-    margin-top: 20vh;
+    margin-top: 10vh;
 }
 
 .btn {
@@ -38,11 +38,11 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 60vh;
-    width: 80vh;    
+    margin-left: 65vh;
+    width: 80vh;
     height: 10vh;
     border-radius: 30px;
-    margin-top: -30vh;
+    margin-top: -50vh;
     cursor: pointer;
 }
 
@@ -60,4 +60,9 @@ text {
 .image {
     width: 10vh;
     margin-left: 45vh;
+}
+
+.formulario_pdf {
+    width: 100vh;
+
 }
